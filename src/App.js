@@ -2,6 +2,9 @@ import React, { Fragment } from 'react';
 import Formulario from './components/Formulario';
 
 function App() {
+  //State general de citas
+
+
   return (
     <Fragment>
       <h1>Administrador de pacientes</h1>
